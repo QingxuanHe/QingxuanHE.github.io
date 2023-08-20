@@ -19,8 +19,7 @@
 **Paper**：
 1. Sheng Min, He Qingxuan, Wang Kangwei, et al. A novel age-group classification method for Irrawaddy dolphins based on dorsal fin shape features[J]. Ecological Informatics, 2022, 69: 101634.
 2. Sheng Min, He Qingxuan, Yu Daoping, et al. Age-groups classification of Irrawaddy dolphins based on dorsal fin geometric morphological features[J]. Ecological Indicators, 2023, 154: 110506.
-3. 苏本跃, 张利, 何清旋, 盛敏. 基于小波特征匹配的短时人体行为识别[J/OL].系统仿真学报:1-11[2022-07-20]. DOI:10.16182/j.issn1004731x.joss.22-0176. 
-4. Benyue Su, Li Zhang, Qingxuan He, et al. Short-time Human Activity Recognition Based on Wavelet Features Matching[J]. Journal of System Simulation, 2023, 35(1): 158.
+3. Benyue Su, Li Zhang, Qingxuan He, et al. Short-time Human Activity Recognition Based on Wavelet Features Matching[J]. Journal of System Simulation, 2023, 35(1): 158.
 
 **Conference**
 1. Sheng Min, He Qingxuan, Wang Kangwei, et al. A New Age-Groups Classifying Method for Irrawaddy Dolphin[C]//Biometric Recognition: 15th Chinese Conference, CCBR 2021, Shanghai, China, September 10–12, 2021, Proceedings 15. Springer International Publishing, 2021: 57-65.
