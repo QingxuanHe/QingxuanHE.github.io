@@ -4,7 +4,7 @@
 
 
 ## Education
-- PhD in College of Information and Electrical Engineering, **China Agricultural University** *(2023-present)*
+- PhD in College of Information and Electrical Engineering, **China Agricultural University** *(2023 - present)*
 - Master in School of Mathematics and Physics, **Anqing Normal University** *(2020 – 2023)*
 - Bachelor in School of Mathematics and Physics, **Anqing Normal University** *(2016 – 2020)*
 
